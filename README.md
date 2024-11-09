@@ -8,7 +8,7 @@ I chose to design a simple arcade game to demonstrate how it is possible to star
 
 I have designed a mini arcade game of a monkey trying to collect coins and reach its banana successfully by not falling into the swamp water. 
 
-Available link below
+**Available link to game below** 
 
 https://arcade.makecode.com/S14098-61160-74973-48259
 
