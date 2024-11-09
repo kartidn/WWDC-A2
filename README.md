@@ -1,6 +1,6 @@
 # WWDC-A2
 
-Hi, my name is Kathy and I have created a mini game using Microsoft MakeCode Arcade. 
+Hi, my name is Kathy Doan and I have created a mini game using Microsoft MakeCode Arcade. 
 
 **General Information** 
 
@@ -8,7 +8,7 @@ I chose to design a simple arcade game to demonstrate how it is possible to star
 
 I have designed a mini arcade game of a monkey trying to collect coins and reach its banana successfully by not falling into the swamp water. 
 
-**Technologies used**
+**Technologies Used**
 
 - Laptop/PC
 - Microsoft MakeCode Arcade
@@ -21,7 +21,7 @@ Completed as part of my Working with Data and Code A2.
 
 Things I believe I can improve on for this project is being more creative in the way I design and adding more features.
 
-**Acknowledegments**
+**Acknowledgments**
 
 - This project was inspired by UTS.
 - This project was based on Working with Data and Code.
